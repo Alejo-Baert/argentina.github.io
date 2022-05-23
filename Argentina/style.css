@@ -339,10 +339,7 @@ section{
     width: 100%;
 }
 .section-3 .caja-contacto div input{
-    width: 300px;
-}
-.section-3 .caja-contacto div textarea{
-    width: 300px;
+    width: 250px;
 }
 .footer-final-responsive{
     font-size: 0.7em;
